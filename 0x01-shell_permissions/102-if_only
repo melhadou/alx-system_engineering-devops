@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -l | grep "guillaume" | chown betty:root hello
+ls -l | grep "guillaume julien" | chown betty hello
