@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -l | grep "guillaume julien" | chown betty hello
+chown --from=guill betty hello
