@@ -1,2 +1,2 @@
 #!/bin/bash
-chown --refrence:oleh hello
+chmod 354 hello 
